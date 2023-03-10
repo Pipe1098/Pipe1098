@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about *Java, Javascript, AI, Data Analysis.*
 
-- 📫 How to reach me *ppenagos1098@gmail.com*
+- 📫 How to reach me *pipe1e@hotmail.com*
 
 - ⚡ Fun fact *I think I am funny*
 
