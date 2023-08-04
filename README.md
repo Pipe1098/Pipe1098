@@ -32,7 +32,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact *I think I am funny*
 
 
-<h3 align="left">Connect with me: <p><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"  />  https://www.linkedin.com/in/luis-felipe-penagos-bedoya-57aab717b/</p> </h3>
+<h3 align="left">Connect with me:  </h3>
+
+<p align="left"> <a href="https://www.linkedin.com/in/lfpb/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /> </a>
 
 
 <h3 align="left">Languages and Tools:</h3>
