@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pipe1098" alt="pipe1098" /></a> </p>
 
-- 🔭 I’m currently working on *Página web inmobiliaria*
+- 🔭 I’m currently working on *LifeFactors*
 
-- 🌱 I’m currently learning *DB, Java, Python*
+- 🌱 I’m currently learning *Data analytics*
 
-- 👯 I’m looking to collaborate on *Backend projects*
+- 👯 I’m looking to collaborate on * AI, ML projects*
 
 - 💬 Ask me about *Java, Javascript, AI, Data Analysis.*
 
