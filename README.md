@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Luis Felipe</h1>
-<h3 align="center">A passionate backend developer from Colombia</h3>
+<h3 align="center">A passionate software developer from Colombia</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pipe1098" alt="pipe1098" /></a> </p>
 
